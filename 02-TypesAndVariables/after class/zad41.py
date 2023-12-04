@@ -12,7 +12,7 @@ def main() -> None:
     binary = bin(n)
     hexadecimal = hex(n)
 
-    print(f'Binary: {binary}, hexadecimal: {hexadecimal}')
+    print(f'Binary: {binary[2:]}, hexadecimal: {hexadecimal}')
 
 if __name__ == '__main__':
     main()

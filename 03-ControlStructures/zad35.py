@@ -18,7 +18,7 @@ def display() -> None:
         else:
             result += str(i) + " "
     
-    print(result)
+    print(result.strip())
 
 def main() -> None:
     display()

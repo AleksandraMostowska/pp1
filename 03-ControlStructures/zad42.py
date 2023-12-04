@@ -12,21 +12,26 @@
 
 
 def main() -> None:    
-    for i in range(6,-1,-3):
-        for j in range(1,4):
-            print(f' {i+j}',end='')
+    for i in range(7, 0, -3):
+        for j in range(0, 3):
+            print(f'{i + j}', end=' ')
         print()
 
-    print()
+    # for i in range(6,-1,-3):
+    #     for j in range(1,4):
+    #         print(f' {i+j}',end='')
+    #     print()
+
+    # print()
     
-    k = 6
-    while k >= 0:
-        l = 1
-        while l < 4:
-            print(f' {k + l}', end='')
-            l += 1
-        print()
-        k -= 3
+    # k = 6
+    # while k >= 0:
+    #     l = 1
+    #     while l < 4:
+    #         print(f' {k + l}', end='')
+    #         l += 1
+    #     print()
+    #     k -= 3
 
 if __name__ == '__main__':
     main()

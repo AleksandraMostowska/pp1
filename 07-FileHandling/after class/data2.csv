@@ -1,0 +1,202 @@
+name,surname,gender,age,country,contact,languages,studies
+
+Urbano,Rossander,Male,25,Poland,"{'email': ['urossander0@networkadvertising.org', 'urossander0@businessinsider.com'], 'phone': '876 895 602'}","['English', 'German', 'Ukrainian']","{'semester': 4, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 3]}, {'name': 'mathematics', 'grades': [4, 3, 3, 3]}, {'name': 'economics', 'grades': [3, 3, 2, 5]}, {'name': 'statistics', 'grades': [4, 4, 4, 4, 2]}]}"
+
+Krispin,Bezants,Male,19,Poland,"{'email': [], 'phone': '680 229 085'}",['French'],"{'semester': 6, 'field': 'Applied Informatics', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 5, 2, 2, 3]}, {'name': 'mathematics', 'grades': [2, 3, 2, 5]}]}"
+
+Tadeas,Bleacher,Male,18,Ukraine,"{'email': ['tbleacher2@amazon.de'], 'phone': '841 266 040'}",['Ukrainian'],"{'semester': 2, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 4, 4]}, {'name': 'mathematics', 'grades': [4, 4, 4, 2]}, {'name': 'economics', 'grades': [3, 4, 4, 2]}, {'name': 'statistics', 'grades': [3, 4, 3, 2]}]}"
+
+Pincus,Haggis,Male,22,Germany,"{'email': ['phaggis3@ifeng.com', 'phaggis3@tumblr.com'], 'phone': '827 150 525'}",[],"{'semester': 5, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 5, 2, 4, 4]}, {'name': 'mathematics', 'grades': [5, 4, 2, 3]}, {'name': 'economics', 'grades': [5, 3]}]}"
+
+Minnie,Mesant,Female,24,Czech Republic,"{'email': ['mmesant4@clickbank.net', 'mmesant4@freewebs.com'], 'phone': '826 987 037'}",[],"{'semester': 3, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 3]}, {'name': 'mathematics', 'grades': [4, 4, 3]}]}"
+
+Thurstan,Lindmark,Male,23,Poland,"{'email': ['tlindmark5@dailymotion.com'], 'phone': '516 624 948'}","['German', 'French', 'English']","{'semester': 2, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 4, 3, 5, 4]}, {'name': 'mathematics', 'grades': [5, 4, 3]}, {'name': 'economics', 'grades': [4, 5, 4, 5]}, {'name': 'statistics', 'grades': [5, 4, 3, 3]}]}"
+
+Merv,Verdey,Male,22,Poland,"{'email': [], 'phone': '837 576 346'}","['Ukrainian', 'German', 'Spanish']","{'semester': 5, 'field': 'Business Administration', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 3]}, {'name': 'mathematics', 'grades': [3, 3, 3]}, {'name': 'economics', 'grades': [3, 4, 5]}, {'name': 'statistics', 'grades': [3, 4, 4]}]}"
+
+Kinna,Pine,Female,21,Ukraine,"{'email': ['kpine7@illinois.edu'], 'phone': '858 237 509'}",['German'],"{'semester': 6, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 5]}, {'name': 'mathematics', 'grades': [2, 4, 2, 4]}]}"
+
+Aliza,Ramme,Female,18,Poland,"{'email': [], 'phone': '888 542 309'}","['German', 'English', 'Ukrainian']","{'semester': 4, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 3]}, {'name': 'mathematics', 'grades': [5, 4, 2, 3, 3]}]}"
+
+Prentice,Goodredge,Male,23,Ukraine,"{'email': ['pgoodredge9@narod.ru', 'pgoodredge9@edublogs.org'], 'phone': '807 658 976'}",[],"{'semester': 1, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 2]}, {'name': 'mathematics', 'grades': [5, 4, 4, 3]}]}"
+
+Orlan,Boulter,Male,20,Poland,"{'email': [], 'phone': '582 666 104'}","['French', 'English', 'Ukrainian']","{'semester': 5, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 2]}, {'name': 'mathematics', 'grades': [3, 4, 3, 3]}]}"
+
+Sydney,Andric,Female,20,Ukraine,"{'email': ['sandricb@bandcamp.com'], 'phone': '848 848 246'}","['Ukrainian', 'French']","{'semester': 2, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 2, 3, 5]}, {'name': 'mathematics', 'grades': [3, 4, 4, 4, 4]}, {'name': 'economics', 'grades': [2, 4]}, {'name': 'statistics', 'grades': [3, 3, 5, 5, 3]}]}"
+
+Winnifred,Chung,Female,25,Ukraine,"{'email': [], 'phone': '888 434 346'}","['French', 'German']","{'semester': 5, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 3, 3, 2]}, {'name': 'mathematics', 'grades': [5, 5, 4, 2]}, {'name': 'economics', 'grades': [5, 4, 4, 2, 2]}]}"
+
+Giorgio,Pioli,Male,23,Ukraine,"{'email': ['gpiolid@prweb.com'], 'phone': '631 513 208'}","['Spanish', 'German', 'English']","{'semester': 2, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 2, 3]}, {'name': 'mathematics', 'grades': [5, 2, 3, 5, 3]}, {'name': 'economics', 'grades': [3, 3]}]}"
+
+Briant,Wroth,Male,18,Ukraine,"{'email': ['bwrothe@businesswire.com', 'bwrothe@trellian.com'], 'phone': '601 587 452'}",[],"{'semester': 6, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 5, 4, 5]}, {'name': 'mathematics', 'grades': [3, 3]}, {'name': 'economics', 'grades': [2, 4, 5, 5, 3]}, {'name': 'statistics', 'grades': [4, 4, 3, 2, 5]}, {'name': 'english', 'grades': [2, 4, 3, 4]}]}"
+
+Drucill,Whate,Female,24,Czech Republic,"{'email': [], 'phone': '833 279 433'}","['French', 'German']","{'semester': 2, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 2]}, {'name': 'mathematics', 'grades': [4, 3]}, {'name': 'economics', 'grades': [4, 4]}, {'name': 'statistics', 'grades': [4, 3]}, {'name': 'english', 'grades': [4, 2, 3]}]}"
+
+Rogers,Cowx,Male,18,Czech Republic,"{'email': ['rcowxg@miibeian.gov.cn'], 'phone': '643 210 798'}","['Spanish', 'German', 'English']","{'semester': 4, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 4, 4, 3, 3]}, {'name': 'mathematics', 'grades': [5, 2]}, {'name': 'economics', 'grades': [2, 2, 4, 2, 3]}]}"
+
+Larina,Manvell,Female,21,Poland,"{'email': ['lmanvellh@pagesperso-orange.fr'], 'phone': '833 911 642'}",['German'],"{'semester': 6, 'field': 'Applied Informatics', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 3]}, {'name': 'mathematics', 'grades': [4, 2, 5, 4, 5]}, {'name': 'economics', 'grades': [4, 2, 5]}, {'name': 'statistics', 'grades': [2, 5, 3, 4]}]}"
+
+Konstantine,Brownsill,Male,24,Poland,"{'email': ['kbrownsilli@archive.org'], 'phone': '819 316 364'}",[],"{'semester': 1, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 4]}, {'name': 'mathematics', 'grades': [5, 5, 2, 2, 5]}, {'name': 'economics', 'grades': [2, 2]}, {'name': 'statistics', 'grades': [3, 4, 2, 3]}, {'name': 'english', 'grades': [5, 2, 3, 4]}]}"
+
+Flem,Beyne,Male,24,Poland,"{'email': ['fbeynej@tinypic.com', 'fbeynej@google.it'], 'phone': '599 179 066'}","['German', 'Ukrainian']","{'semester': 1, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 4, 2, 4, 5]}, {'name': 'mathematics', 'grades': [5, 4, 3]}]}"
+
+Phelia,Basler,Female,18,Czech Republic,"{'email': ['pbaslerk@jugem.jp'], 'phone': '814 204 281'}","['German', 'Spanish']","{'semester': 6, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 3, 3]}, {'name': 'mathematics', 'grades': [2, 2, 2, 2, 3]}, {'name': 'economics', 'grades': [5, 2, 2, 2, 3]}, {'name': 'statistics', 'grades': [5, 4, 5, 3, 4]}, {'name': 'english', 'grades': [5, 4]}]}"
+
+Orion,Havers,Male,24,Ukraine,"{'email': ['ohaversl@myspace.com', 'ohaversl@uol.com.br'], 'phone': '651 374 892'}",['Ukrainian'],"{'semester': 1, 'field': 'Business Administration', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 4]}, {'name': 'mathematics', 'grades': [4, 3, 2, 2, 4]}]}"
+
+Ekaterina,Pimlock,Female,18,Poland,"{'email': [], 'phone': '556 936 806'}","['English', 'German', 'French']","{'semester': 5, 'field': 'Business Administration', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 5, 4, 2, 2]}, {'name': 'mathematics', 'grades': [3, 2, 4]}, {'name': 'economics', 'grades': [3, 4, 4, 4]}]}"
+
+Stearne,Huish,Male,18,Czech Republic,"{'email': [], 'phone': '824 440 877'}",['Ukrainian'],"{'semester': 5, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 5, 3, 4]}, {'name': 'mathematics', 'grades': [4, 5]}, {'name': 'economics', 'grades': [5, 2]}, {'name': 'statistics', 'grades': [2, 3, 3]}]}"
+
+Calli,Myhan,Female,22,Ukraine,"{'email': ['cmyhano@slate.com'], 'phone': '599 265 356'}","['German', 'Ukrainian', 'English']","{'semester': 1, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 4, 3, 3, 2]}, {'name': 'mathematics', 'grades': [5, 5, 4, 3, 3]}]}"
+
+Blinnie,Goodisson,Female,24,Poland,"{'email': ['bgoodissonp@whitehouse.gov', 'bgoodissonp@pcworld.com'], 'phone': '841 630 125'}","['Ukrainian', 'German']","{'semester': 2, 'field': 'Applied Informatics', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 2, 2, 5, 4]}, {'name': 'mathematics', 'grades': [2, 4, 5, 3]}, {'name': 'economics', 'grades': [2, 3]}]}"
+
+Gil,Lartice,Male,24,Poland,"{'email': ['glarticeq@purevolume.com', 'glarticeq@ucsd.edu'], 'phone': '516 138 796'}","['Ukrainian', 'Spanish', 'German']","{'semester': 2, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 2]}, {'name': 'mathematics', 'grades': [5, 2, 3, 2, 3]}, {'name': 'economics', 'grades': [3, 4, 2, 5, 3]}]}"
+
+Sharona,Davidovicz,Female,23,Ukraine,"{'email': ['sdavidoviczr@infoseek.co.jp'], 'phone': '673 835 080'}",[],"{'semester': 3, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 4, 2]}, {'name': 'mathematics', 'grades': [5, 5, 2, 5]}, {'name': 'economics', 'grades': [3, 5, 2]}, {'name': 'statistics', 'grades': [4, 4, 2, 5, 5]}]}"
+
+Deerdre,Giacobilio,Female,20,Poland,"{'email': [], 'phone': '855 133 471'}",['Ukrainian'],"{'semester': 5, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 4, 5, 2, 3]}, {'name': 'mathematics', 'grades': [3, 3, 5, 4]}]}"
+
+Shawnee,Dale,Female,23,Czech Republic,"{'email': ['sdalet@globo.com'], 'phone': '882 969 293'}",[],"{'semester': 4, 'field': 'Applied Informatics', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 5, 4]}, {'name': 'mathematics', 'grades': [5, 3, 4, 3]}, {'name': 'economics', 'grades': [3, 3]}, {'name': 'statistics', 'grades': [2, 4, 5, 3]}]}"
+
+Vivian,Oldknowe,Female,21,Poland,"{'email': [], 'phone': '628 290 633'}","['Spanish', 'German']","{'semester': 2, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 3, 5, 3]}, {'name': 'mathematics', 'grades': [4, 4, 4, 4]}, {'name': 'economics', 'grades': [4, 2, 2]}, {'name': 'statistics', 'grades': [2, 3, 2, 5, 4]}, {'name': 'english', 'grades': [2, 3, 2, 5, 5]}]}"
+
+Martelle,Brandli,Female,23,Poland,"{'email': ['mbrandliv@tiny.cc'], 'phone': '876 030 951'}",['German'],"{'semester': 6, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 3, 2, 4]}, {'name': 'mathematics', 'grades': [2, 5]}, {'name': 'economics', 'grades': [2, 3, 3]}]}"
+
+Kristan,Drummer,Female,22,Poland,"{'email': [], 'phone': '565 790 064'}","['French', 'German', 'Spanish']","{'semester': 6, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 4, 2, 2]}, {'name': 'mathematics', 'grades': [5, 3, 5, 3, 4]}]}"
+
+Mignonne,Kaman,Female,18,Poland,"{'email': ['mkamanx@virginia.edu'], 'phone': '802 935 313'}","['German', 'Spanish']","{'semester': 3, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 3, 4, 3]}, {'name': 'mathematics', 'grades': [2, 4, 2]}, {'name': 'economics', 'grades': [2, 3, 4]}]}"
+
+Bastian,Slite,Male,22,Poland,"{'email': ['bslitey@com.com', 'bslitey@e-recht24.de'], 'phone': '631 655 237'}",['Ukrainian'],"{'semester': 2, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 2]}, {'name': 'mathematics', 'grades': [5, 4, 4, 4, 5]}, {'name': 'economics', 'grades': [3, 2, 4, 2]}]}"
+
+Augustine,Oliffe,Female,18,Poland,"{'email': ['aoliffez@rambler.ru'], 'phone': '547 647 085'}","['Ukrainian', 'French']","{'semester': 4, 'field': 'Business Administration', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 2, 3]}, {'name': 'mathematics', 'grades': [5, 5, 2, 4]}]}"
+
+Goober,Pettersen,Male,19,Poland,"{'email': [], 'phone': '562 728 149'}","['French', 'English']","{'semester': 5, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 3]}, {'name': 'mathematics', 'grades': [5, 5, 2, 5]}, {'name': 'economics', 'grades': [4, 2]}, {'name': 'statistics', 'grades': [2, 4, 3]}, {'name': 'english', 'grades': [4, 4, 2, 3]}]}"
+
+Rourke,Gethins,Male,21,Ukraine,"{'email': [], 'phone': '567 004 810'}",['German'],"{'semester': 3, 'field': 'Law', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 4]}, {'name': 'mathematics', 'grades': [4, 2, 4]}, {'name': 'economics', 'grades': [3, 5, 3, 5, 2]}, {'name': 'statistics', 'grades': [5, 3, 5, 3]}]}"
+
+Marybeth,Haime,Female,24,Ukraine,"{'email': [], 'phone': '633 739 651'}","['French', 'German', 'English']","{'semester': 6, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 5]}, {'name': 'mathematics', 'grades': [5, 2, 5, 2]}, {'name': 'economics', 'grades': [4, 3, 3, 5]}]}"
+
+Tann,Stormes,Male,24,Ukraine,"{'email': [], 'phone': '891 147 435'}",['Ukrainian'],"{'semester': 5, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 4, 2]}, {'name': 'mathematics', 'grades': [4, 5]}, {'name': 'economics', 'grades': [5, 3, 5]}]}"
+
+Rasla,Trangmar,Female,23,Poland,"{'email': ['rtrangmar14@myspace.com', 'rtrangmar14@merriam-webster.com'], 'phone': '847 973 026'}","['German', 'English']","{'semester': 4, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 4]}, {'name': 'mathematics', 'grades': [2, 5, 5]}, {'name': 'economics', 'grades': [3, 2, 5, 5]}]}"
+
+Ronny,Hess,Male,21,Poland,"{'email': ['rhess15@google.com.hk', 'rhess15@ucoz.com'], 'phone': '664 837 079'}",[],"{'semester': 3, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 4, 3, 2]}, {'name': 'mathematics', 'grades': [3, 4, 4, 5]}, {'name': 'economics', 'grades': [2, 4, 5]}]}"
+
+Sonni,Heel,Female,20,Czech Republic,"{'email': ['sheel16@google.nl', 'sheel16@blogspot.com'], 'phone': '837 590 606'}",[],"{'semester': 4, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 5]}, {'name': 'mathematics', 'grades': [5, 3]}, {'name': 'economics', 'grades': [2, 4, 3, 3]}, {'name': 'statistics', 'grades': [5, 2, 3, 4, 5]}, {'name': 'english', 'grades': [5, 4, 5, 3, 4]}]}"
+
+Morie,Hancox,Male,25,Germany,"{'email': [], 'phone': '586 803 158'}","['English', 'German', 'Spanish']","{'semester': 3, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 5, 4]}, {'name': 'mathematics', 'grades': [4, 3, 4]}, {'name': 'economics', 'grades': [5, 2]}, {'name': 'statistics', 'grades': [3, 5, 4]}, {'name': 'english', 'grades': [4, 3, 5, 3]}]}"
+
+Dniren,Shepperd,Female,20,Poland,"{'email': [], 'phone': '815 180 384'}",['Ukrainian'],"{'semester': 5, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 5, 5, 4, 3]}, {'name': 'mathematics', 'grades': [2, 2, 2, 5]}, {'name': 'economics', 'grades': [5, 5]}, {'name': 'statistics', 'grades': [5, 5, 3]}, {'name': 'english', 'grades': [5, 3]}]}"
+
+Benn,Kingswell,Male,19,Czech Republic,"{'email': [], 'phone': '688 938 455'}","['Ukrainian', 'French']","{'semester': 3, 'field': 'Applied Informatics', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 3, 4, 4]}, {'name': 'mathematics', 'grades': [4, 5, 4]}, {'name': 'economics', 'grades': [2, 4]}, {'name': 'statistics', 'grades': [4, 2]}]}"
+
+Jameson,Verbeke,Male,19,Ukraine,"{'email': ['jverbeke1a@blogger.com', 'jverbeke1a@wufoo.com'], 'phone': '539 915 370'}","['English', 'Spanish']","{'semester': 6, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 5]}, {'name': 'mathematics', 'grades': [2, 5]}]}"
+
+Becka,Janoch,Female,18,Czech Republic,"{'email': ['bjanoch1b@twitpic.com'], 'phone': '557 509 243'}","['Spanish', 'German']","{'semester': 2, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 2]}, {'name': 'mathematics', 'grades': [5, 5, 2, 2, 5]}, {'name': 'economics', 'grades': [4, 5, 4, 5]}, {'name': 'statistics', 'grades': [3, 2, 4]}]}"
+
+Jerome,Rogger,Male,20,Ukraine,"{'email': [], 'phone': '668 349 675'}","['Ukrainian', 'Spanish']","{'semester': 2, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 3, 2, 2]}, {'name': 'mathematics', 'grades': [5, 5]}]}"
+
+Arnold,Woolaston,Male,23,Lithuania,"{'email': [], 'phone': '551 469 915'}","['German', 'Ukrainian', 'French']","{'semester': 6, 'field': 'Law', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 3, 5, 5, 4]}, {'name': 'mathematics', 'grades': [4, 3]}]}"
+
+Leila,McCullagh,Female,18,Poland,"{'email': ['lmccullagh1e@biglobe.ne.jp', 'lmccullagh1e@moonfruit.com'], 'phone': '846 243 465'}","['English', 'German']","{'semester': 6, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 5, 4, 4]}, {'name': 'mathematics', 'grades': [5, 3, 5, 4]}]}"
+
+Richard,Gusney,Male,19,Poland,"{'email': [], 'phone': '679 205 513'}","['Spanish', 'German']","{'semester': 5, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 3]}, {'name': 'mathematics', 'grades': [4, 4, 5, 4, 5]}, {'name': 'economics', 'grades': [3, 5, 2, 3]}]}"
+
+Georgeta,Jeffreys,Female,25,Ukraine,"{'email': [], 'phone': '860 437 516'}",[],"{'semester': 5, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 3, 4, 3, 2]}, {'name': 'mathematics', 'grades': [3, 5, 3, 5, 4]}, {'name': 'economics', 'grades': [4, 2, 2, 2, 5]}, {'name': 'statistics', 'grades': [3, 3, 4]}]}"
+
+Vidovik,Scipsey,Male,20,Czech Republic,"{'email': ['vscipsey1h@mit.edu', 'vscipsey1h@wikispaces.com'], 'phone': '861 971 273'}","['French', 'English']","{'semester': 1, 'field': 'Business Administration', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 3]}, {'name': 'mathematics', 'grades': [5, 5, 3]}]}"
+
+Retha,Harries,Female,18,Poland,"{'email': ['rharries1i@bluehost.com'], 'phone': '582 319 601'}",[],"{'semester': 1, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 3, 5, 4, 4]}, {'name': 'mathematics', 'grades': [3, 3, 3, 3]}, {'name': 'economics', 'grades': [2, 3, 3]}, {'name': 'statistics', 'grades': [3, 5]}]}"
+
+Quinn,Watt,Male,20,Poland,"{'email': [], 'phone': '648 831 641'}",[],"{'semester': 4, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 2, 3, 4, 5]}, {'name': 'mathematics', 'grades': [4, 4, 4]}, {'name': 'economics', 'grades': [3, 3, 3, 2, 5]}, {'name': 'statistics', 'grades': [3, 5, 2]}]}"
+
+Tally,Paye,Male,19,Poland,"{'email': ['tpaye1k@de.vu'], 'phone': '697 217 179'}",[],"{'semester': 2, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 3, 3, 4]}, {'name': 'mathematics', 'grades': [5, 5, 4, 4, 5]}, {'name': 'economics', 'grades': [5, 4, 4, 4]}, {'name': 'statistics', 'grades': [5, 2]}]}"
+
+Melly,Grigore,Female,19,Lithuania,"{'email': ['mgrigore1l@t-online.de', 'mgrigore1l@google.com.br'], 'phone': '857 330 778'}",['French'],"{'semester': 2, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 5, 3]}, {'name': 'mathematics', 'grades': [5, 4, 3, 3, 3]}, {'name': 'economics', 'grades': [4, 2]}, {'name': 'statistics', 'grades': [3, 2]}]}"
+
+Adah,Elliss,Female,23,Poland,"{'email': ['aelliss1m@bravesites.com'], 'phone': '850 027 214'}","['German', 'French']","{'semester': 5, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 5]}, {'name': 'mathematics', 'grades': [2, 2]}, {'name': 'economics', 'grades': [5, 4]}, {'name': 'statistics', 'grades': [2, 3, 3]}]}"
+
+Patience,Lavin,Female,24,Poland,"{'email': ['plavin1n@so-net.ne.jp', 'plavin1n@stumbleupon.com'], 'phone': '868 002 422'}",[],"{'semester': 3, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 2, 2, 3]}, {'name': 'mathematics', 'grades': [5, 5, 3]}]}"
+
+Jojo,Roth,Female,24,Czech Republic,"{'email': ['jroth1o@technorati.com'], 'phone': '634 344 288'}",[],"{'semester': 6, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 3, 5, 4]}, {'name': 'mathematics', 'grades': [4, 5, 4, 2, 5]}, {'name': 'economics', 'grades': [4, 2, 3, 5]}, {'name': 'statistics', 'grades': [5, 4, 5]}]}"
+
+Emmy,Cabrera,Male,19,Poland,"{'email': [], 'phone': '810 859 509'}",['English'],"{'semester': 1, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 3, 3, 4, 5]}, {'name': 'mathematics', 'grades': [5, 2, 2, 3]}, {'name': 'economics', 'grades': [2, 5, 3, 5]}, {'name': 'statistics', 'grades': [5, 3]}, {'name': 'english', 'grades': [3, 4, 5, 5]}]}"
+
+Hamnet,Hawksby,Male,24,Czech Republic,"{'email': [], 'phone': '864 316 144'}","['Spanish', 'Ukrainian']","{'semester': 2, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 4]}, {'name': 'mathematics', 'grades': [3, 3, 3, 2]}, {'name': 'economics', 'grades': [4, 2, 4]}]}"
+
+Editha,Darco,Female,20,Czech Republic,"{'email': ['edarco1r@indiegogo.com'], 'phone': '606 925 788'}",['Spanish'],"{'semester': 2, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 5, 3, 5, 4]}, {'name': 'mathematics', 'grades': [5, 4, 2, 3]}, {'name': 'economics', 'grades': [5, 5, 3]}, {'name': 'statistics', 'grades': [5, 3, 2, 3, 3]}]}"
+
+Kenn,Ellerbeck,Male,20,Czech Republic,"{'email': ['kellerbeck1s@java.com', 'kellerbeck1s@berkeley.edu'], 'phone': '813 282 186'}","['French', 'English']","{'semester': 2, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 2]}, {'name': 'mathematics', 'grades': [3, 3, 2]}]}"
+
+Elmira,Balcombe,Female,19,Ukraine,"{'email': ['ebalcombe1t@cafepress.com', 'ebalcombe1t@geocities.com'], 'phone': '804 906 409'}",['English'],"{'semester': 6, 'field': 'Accounting', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 3]}, {'name': 'mathematics', 'grades': [4, 2, 3]}, {'name': 'economics', 'grades': [2, 3]}, {'name': 'statistics', 'grades': [2, 3, 2, 4, 3]}]}"
+
+Pearce,Pedler,Male,22,Ukraine,"{'email': ['ppedler1u@storify.com', 'ppedler1u@go.com'], 'phone': '840 927 365'}",['Ukrainian'],"{'semester': 3, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 3, 5, 2]}, {'name': 'mathematics', 'grades': [3, 4, 3, 5]}, {'name': 'economics', 'grades': [3, 4, 2, 2]}, {'name': 'statistics', 'grades': [2, 5]}]}"
+
+Myrtle,Rielly,Female,23,Poland,"{'email': ['mrielly1v@sciencedaily.com'], 'phone': '590 853 798'}",[],"{'semester': 4, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 4, 2, 3]}, {'name': 'mathematics', 'grades': [2, 4, 5, 3, 2]}, {'name': 'economics', 'grades': [4, 4, 3, 2]}, {'name': 'statistics', 'grades': [4, 3, 4]}, {'name': 'english', 'grades': [5, 5, 3, 4]}]}"
+
+Heall,D'eath,Male,20,Czech Republic,"{'email': [], 'phone': '620 892 113'}","['Spanish', 'Ukrainian']","{'semester': 2, 'field': 'Law', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 3, 2, 4, 3]}, {'name': 'mathematics', 'grades': [2, 2, 5, 2, 2]}]}"
+
+Sibylle,Ambroise,Female,23,Poland,"{'email': ['sambroise1x@xrea.com', 'sambroise1x@mtv.com'], 'phone': '866 492 633'}","['Spanish', 'French', 'German']","{'semester': 1, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 3, 3, 4, 2]}, {'name': 'mathematics', 'grades': [4, 5, 5, 3]}, {'name': 'economics', 'grades': [4, 3, 5, 3, 5]}, {'name': 'statistics', 'grades': [2, 2, 3, 5, 2]}, {'name': 'english', 'grades': [2, 5]}]}"
+
+Geoffry,Gosson,Male,21,Ukraine,"{'email': ['ggosson1y@upenn.edu', 'ggosson1y@github.io'], 'phone': '806 503 668'}",['Spanish'],"{'semester': 6, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 5]}, {'name': 'mathematics', 'grades': [2, 5, 3]}, {'name': 'economics', 'grades': [4, 5]}, {'name': 'statistics', 'grades': [3, 3, 3]}, {'name': 'english', 'grades': [4, 4, 4]}]}"
+
+Vilma,Mussotti,Female,25,Poland,"{'email': [], 'phone': '890 292 299'}",[],"{'semester': 2, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 5, 3]}, {'name': 'mathematics', 'grades': [5, 3, 3, 2]}, {'name': 'economics', 'grades': [3, 4]}]}"
+
+Dorrie,Keneleyside,Female,18,Poland,"{'email': ['dkeneleyside20@admin.ch', 'dkeneleyside20@patch.com'], 'phone': '829 788 435'}","['English', 'French', 'Spanish']","{'semester': 4, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 5, 5, 5]}, {'name': 'mathematics', 'grades': [5, 4, 3, 2]}, {'name': 'economics', 'grades': [2, 3, 2, 4, 3]}, {'name': 'statistics', 'grades': [2, 3]}]}"
+
+Sibyl,Hebblewhite,Female,23,Ukraine,"{'email': [], 'phone': '602 903 554'}",[],"{'semester': 3, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 4]}, {'name': 'mathematics', 'grades': [4, 5, 2, 5]}, {'name': 'economics', 'grades': [3, 3, 2, 4]}]}"
+
+Babette,Woolager,Female,22,Poland,"{'email': ['bwoolager22@macromedia.com', 'bwoolager22@loc.gov'], 'phone': '870 354 576'}",[],"{'semester': 4, 'field': 'Business Administration', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 5, 2]}, {'name': 'mathematics', 'grades': [5, 5, 5, 3, 4]}, {'name': 'economics', 'grades': [3, 5, 2, 3, 4]}]}"
+
+Portie,Oscroft,Male,23,Ukraine,"{'email': ['poscroft23@homestead.com'], 'phone': '846 821 169'}",['Spanish'],"{'semester': 5, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 5, 3, 4, 5]}, {'name': 'mathematics', 'grades': [4, 2]}, {'name': 'economics', 'grades': [3, 5, 2, 4, 2]}, {'name': 'statistics', 'grades': [5, 2]}, {'name': 'english', 'grades': [3, 2]}]}"
+
+Leroi,O' Gara,Male,20,Poland,"{'email': ['logara24@bravesites.com'], 'phone': '528 663 537'}","['Spanish', 'Ukrainian']","{'semester': 1, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 4, 4, 2]}, {'name': 'mathematics', 'grades': [5, 3]}]}"
+
+Orville,Thirsk,Male,19,Poland,"{'email': ['othirsk25@mtv.com', 'othirsk25@ucoz.ru'], 'phone': '884 800 192'}",['Spanish'],"{'semester': 5, 'field': 'Law', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 4, 4]}, {'name': 'mathematics', 'grades': [4, 3, 5, 3, 5]}, {'name': 'economics', 'grades': [2, 4, 5, 2, 5]}, {'name': 'statistics', 'grades': [4, 3, 5, 3, 3]}]}"
+
+Adrienne,Feragh,Female,24,Ukraine,"{'email': [], 'phone': '675 956 758'}",[],"{'semester': 6, 'field': 'Law', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [3, 4]}, {'name': 'mathematics', 'grades': [2, 4, 5, 5]}, {'name': 'economics', 'grades': [3, 5, 5, 3]}, {'name': 'statistics', 'grades': [3, 4, 2, 2, 4]}, {'name': 'english', 'grades': [3, 5, 4, 3]}]}"
+
+Felita,Lung,Female,22,Ukraine,"{'email': ['flung27@marriott.com'], 'phone': '613 092 214'}","['Ukrainian', 'English', 'Spanish']","{'semester': 3, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 3]}, {'name': 'mathematics', 'grades': [2, 2, 3, 5]}]}"
+
+Megan,Filipson,Female,18,Poland,"{'email': ['mfilipson28@nba.com'], 'phone': '876 003 376'}","['German', 'English']","{'semester': 2, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 5]}, {'name': 'mathematics', 'grades': [5, 5, 4]}, {'name': 'economics', 'grades': [4, 3, 4]}, {'name': 'statistics', 'grades': [5, 2, 5, 4, 2]}, {'name': 'english', 'grades': [3, 2, 3]}]}"
+
+Montgomery,Jowsey,Male,19,Poland,"{'email': ['mjowsey29@symantec.com', 'mjowsey29@columbia.edu'], 'phone': '808 174 614'}",[],"{'semester': 6, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 4, 5, 4]}, {'name': 'mathematics', 'grades': [3, 2]}]}"
+
+Rolph,Earl,Male,24,Czech Republic,"{'email': ['rearl2a@comsenz.com', 'rearl2a@live.com'], 'phone': '617 341 741'}","['French', 'Ukrainian', 'Spanish']","{'semester': 4, 'field': 'Applied Informatics', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 5, 2]}, {'name': 'mathematics', 'grades': [2, 2, 3, 5]}, {'name': 'economics', 'grades': [3, 2, 2, 3, 2]}, {'name': 'statistics', 'grades': [5, 4, 5, 5]}, {'name': 'english', 'grades': [5, 3]}]}"
+
+Torry,Charer,Male,21,Poland,"{'email': ['tcharer2b@dedecms.com', 'tcharer2b@technorati.com'], 'phone': '523 194 272'}","['Spanish', 'German']","{'semester': 5, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [2, 5, 4]}, {'name': 'mathematics', 'grades': [5, 4, 2]}, {'name': 'economics', 'grades': [3, 2]}, {'name': 'statistics', 'grades': [2, 4]}]}"
+
+Brendon,Went,Male,19,Ukraine,"{'email': [], 'phone': '609 128 833'}",[],"{'semester': 3, 'field': 'Law', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 3, 5, 3, 2]}, {'name': 'mathematics', 'grades': [3, 2]}, {'name': 'economics', 'grades': [4, 4, 5]}, {'name': 'statistics', 'grades': [4, 4, 2, 4, 2]}]}"
+
+Orella,MacKomb,Female,18,Ukraine,"{'email': [], 'phone': '804 578 059'}","['Spanish', 'English', 'Ukrainian']","{'semester': 2, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 2, 5]}, {'name': 'mathematics', 'grades': [5, 3, 5]}]}"
+
+Granville,Hedin,Male,23,Poland,"{'email': ['ghedin2e@state.gov', 'ghedin2e@squarespace.com'], 'phone': '517 441 321'}","['Spanish', 'French', 'English']","{'semester': 2, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 3]}, {'name': 'mathematics', 'grades': [3, 2]}, {'name': 'economics', 'grades': [4, 3, 3, 2, 3]}, {'name': 'statistics', 'grades': [4, 5, 5, 4]}, {'name': 'english', 'grades': [5, 4]}]}"
+
+Ikey,Shoppee,Male,23,Poland,"{'email': ['ishoppee2f@utexas.edu'], 'phone': '575 597 320'}",[],"{'semester': 1, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 2]}, {'name': 'mathematics', 'grades': [4, 5, 2, 2, 5]}]}"
+
+Orbadiah,Drewry,Male,23,Czech Republic,"{'email': [], 'phone': '590 999 122'}",['German'],"{'semester': 1, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 4]}, {'name': 'mathematics', 'grades': [2, 4, 5, 2, 3]}, {'name': 'economics', 'grades': [4, 2, 3, 2]}, {'name': 'statistics', 'grades': [4, 3, 4]}]}"
+
+Dayle,Dennington,Female,21,Ukraine,"{'email': ['ddennington2h@gravatar.com', 'ddennington2h@arizona.edu'], 'phone': '662 846 544'}",['English'],"{'semester': 3, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 5]}, {'name': 'mathematics', 'grades': [3, 5, 2, 5, 3]}, {'name': 'economics', 'grades': [3, 2]}]}"
+
+Angelo,McShirrie,Male,18,Poland,"{'email': ['amcshirrie2i@hud.gov'], 'phone': '828 113 310'}",[],"{'semester': 3, 'field': 'Law', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 3, 4]}, {'name': 'mathematics', 'grades': [3, 5, 2, 2, 2]}, {'name': 'economics', 'grades': [5, 3, 3]}]}"
+
+Rance,Pecey,Male,19,Czech Republic,"{'email': ['rpecey2j@hexun.com', 'rpecey2j@free.fr'], 'phone': '502 395 875'}",['German'],"{'semester': 3, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [2, 4, 2, 5, 4]}, {'name': 'mathematics', 'grades': [3, 2, 5, 3]}, {'name': 'economics', 'grades': [3, 5, 4, 4, 2]}, {'name': 'statistics', 'grades': [5, 2]}, {'name': 'english', 'grades': [4, 4, 2]}]}"
+
+Dru,Taplow,Female,21,Poland,"{'email': ['dtaplow2k@oakley.com', 'dtaplow2k@accuweather.com'], 'phone': '543 476 939'}",['German'],"{'semester': 2, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [5, 4, 5]}, {'name': 'mathematics', 'grades': [3, 3, 3]}]}"
+
+Cassius,de Chastelain,Male,20,Lithuania,"{'email': ['cdechastelain2l@squidoo.com', 'cdechastelain2l@ovh.net'], 'phone': '563 838 623'}",['French'],"{'semester': 1, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 2, 3]}, {'name': 'mathematics', 'grades': [2, 2, 5, 4, 2]}, {'name': 'economics', 'grades': [3, 4, 4, 3]}, {'name': 'statistics', 'grades': [5, 4]}]}"
+
+Isiahi,Sterley,Male,23,Czech Republic,"{'email': ['isterley2m@deliciousdays.com'], 'phone': '507 736 439'}",[],"{'semester': 4, 'field': 'Finance', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 2, 5]}, {'name': 'mathematics', 'grades': [2, 5, 3, 4, 3]}]}"
+
+Glenn,Eastham,Male,19,Poland,"{'email': ['geastham2n@wp.com', 'geastham2n@chicagotribune.com'], 'phone': '638 741 471'}",['French'],"{'semester': 3, 'field': 'Applied Informatics', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 5, 4, 2, 3]}, {'name': 'mathematics', 'grades': [3, 5, 5, 2]}, {'name': 'economics', 'grades': [2, 2]}, {'name': 'statistics', 'grades': [2, 3, 3, 5, 4]}, {'name': 'english', 'grades': [2, 3, 5]}]}"
+
+Jeanine,Vanyashin,Female,23,Poland,"{'email': ['jvanyashin2o@rakuten.co.jp', 'jvanyashin2o@va.gov'], 'phone': '877 554 591'}",['Ukrainian'],"{'semester': 2, 'field': 'Accounting', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [4, 5, 5]}, {'name': 'mathematics', 'grades': [5, 5, 5, 3, 2]}, {'name': 'economics', 'grades': [4, 2, 5, 2, 5]}]}"
+
+Vassily,Sloley,Male,23,Ukraine,"{'email': [], 'phone': '859 259 707'}","['French', 'Ukrainian', 'English']","{'semester': 5, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [5, 3, 3]}, {'name': 'mathematics', 'grades': [4, 2]}]}"
+
+Ingar,Jagiello,Male,24,Czech Republic,"{'email': [], 'phone': '501 533 408'}","['English', 'Spanish', 'German']","{'semester': 6, 'field': 'Finance', 'fulltime': 'yes', 'courses': [{'name': 'programming', 'grades': [3, 2, 2]}, {'name': 'mathematics', 'grades': [4, 5]}]}"
+
+Nels,De Maria,Male,23,Ukraine,"{'email': ['ndemaria2r@oakley.com', 'ndemaria2r@wix.com'], 'phone': '893 683 356'}","['French', 'Ukrainian', 'English']","{'semester': 1, 'field': 'Business Administration', 'fulltime': 'no', 'courses': [{'name': 'programming', 'grades': [4, 3]}, {'name': 'mathematics', 'grades': [3, 4, 3, 2, 4]}, {'name': 'economics', 'grades': [3, 5, 5, 5, 2]}, {'name': 'statistics', 'grades': [2, 4, 5, 4]}]}"
+

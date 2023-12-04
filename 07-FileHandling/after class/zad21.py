@@ -6,9 +6,12 @@
 # …
 
 def save_to_file(filename: str) -> None:
+    # with open(filename, 'w') as f:
+    #     for i in range(1, 11):
+    #         f.write(','.join([str(i ** j) for j in range(1, 4)]) + '\n')
+
     with open(filename, 'w') as f:
-        for i in range(1, 11):
-            f.write(','.join([str(i ** j) for j in range(1, 4)]) + '\n')
+        f.write('\n'.join([(','.join([str(i ** j) for j in range(1, 4)])) for i in range(1, 11)]))
 
 def main() -> None:
     save_to_file('powers.txt')

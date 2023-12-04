@@ -1,4 +1,4 @@
-# 46.	Write a program that displays a lottery coupon (numbers from 1 to 49) in the format as below.
+ # 46.	Write a program that displays a lottery coupon (numbers from 1 to 49) in the format as below.
 #   1  8 15 22 29 36 43
 #   2  9 16 23 30 37 44
 #   3 10 17 24 31 38 45

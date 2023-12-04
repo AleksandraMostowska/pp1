@@ -1,0 +1,14 @@
+{
+    "title": "abc",
+    "year": "1970",
+    "actor": {
+        "leading": "xyz",
+        "supporting": "defg"
+    },
+    "oscar": true,
+    "languages": [
+        "Polish",
+        "English",
+        "French"
+    ]
+}

@@ -10,5 +10,7 @@ def main() -> None:
     
     print(' '.join(map(str, nums)))
 
+    print(' '.join([str(random.randint(5, 10)) for _ in range(20)]))
+
 if __name__ == '__main__':
     main()

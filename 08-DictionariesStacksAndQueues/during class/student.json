@@ -1,0 +1,19 @@
+{
+    "name": "Alojzy",
+    "surname": "Mucha",
+    "age": 20,
+    "studies": "applied informatics",
+    "year": 1,
+    "semester": 1,
+    "subjects": [
+        "Programming",
+        "Math",
+        "EDI"
+    ],
+    "is_still_student": true,
+    "teachers": {
+        "Programming": "abc",
+        "Math": "defg",
+        "EDI": "xyz"
+    }
+}

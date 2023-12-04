@@ -1,17 +1,23 @@
-def get_nth_odd_num(x: int, n: int) -> int:
-    num = 1
-    nums = [1]
-    while len(nums) < n:
-        candidate = num + x
-        if candidate % 2 == 1:
-            nums.append(candidate)
-        num += x
+def bin_to_dec(num: str) -> int:
+    num = num[::-1]
+    result = 0
+    for i in range(len(num)):
+        if num[i] == '1':
+            result += 2 ** i
     
-    return nums[-1]
+    return result
+    
+def dec_to_bin(n: int) -> int:
+    result = ''
+    while n != 0:
+        result += str(n % 2)
+        n //= 2
+    
+    return result[::-1]
 
 def main() -> None:
-    print(get_nth_odd_num(2, 8))
-    print(get_nth_odd_num(3, 4))
+    print(bin_to_dec("0101"))
+    print(dec_to_bin(13))
 
 if __name__ == '__main__':
     main()

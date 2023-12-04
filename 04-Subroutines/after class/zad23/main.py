@@ -8,7 +8,7 @@ import count_letter_app
 
 def main() -> None:
     text = 'You never get a second chance to make a first impression'
-    letter = 'o'
+    letter = 'e'
     print(f"The number of letter '{letter}' is {count_letter_app.count_letter_appearances(letter, text)}")
 
 if __name__ == '__main__':

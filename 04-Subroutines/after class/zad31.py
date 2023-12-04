@@ -4,11 +4,12 @@
 # f(-1,11) returns 0
 
 def f(x: int, y: int) -> int:
-    return len([i for i in range(x, y) if i < 0 and i % 2 == 0])
+    return len([i for i in range(x, y + 1) if i < 0 and i % 2 == 0])
 
 def main() -> None:
     print(f(-7, 8))
     print(f(-1, 11))
+    print(f(-8, -2))
 
 if __name__ == '__main__':
     main()

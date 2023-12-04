@@ -5,10 +5,13 @@
 import re
 
 def display_six_and_more_letters_words(filename: str) -> None:
+    words = []
     with open(filename, "r") as f:
-        for line in f.readlines():
-            if re.match(r'^[A-Za-z]{6,}$', line):
-                print(line, end='')
+        print(re.findall(r'[A-Za-z]{6,}', f.read()))
+
+        # for line in f.readlines():
+        #     if re.match(r'^[A-Za-z]{6,}$', line):
+        #         print(line, end='')
 
 def main() -> None:
     display_six_and_more_letters_words('filename.txt')

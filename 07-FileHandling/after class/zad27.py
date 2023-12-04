@@ -3,12 +3,17 @@
 # Grades: 3.5, 4.0, 5.0, 4.5, 3.5, 3.0, 5.0
 # Then create a program that calculates the arithmetic mean of student’s grades.
 
+import re
+
 def read_grades_from_file(filename: str) -> list[float]:
     with open(filename, 'r') as f:
-        grades_line = [line.strip() for line in f.readlines() if "Grades:" in line]
-        grades_text = grades_line[0].replace("Grades: ", "")
-        grades = [float(grade) for grade in grades_text.split(',')]
-        return grades
+        # grades_line = [line.strip() for line in f.readlines() if "Grades:" in line]
+        # grades_text = grades_line[0].replace("Grades: ", "")
+        # grades = [float(grade) for grade in grades_text.split(',')]
+        # return grades
+
+        grades = re.findall("\d.\d", f.read())
+        return [float(i) for i in grades]
 
 def get_mean(grades: list[float]) -> float:
     if grades:

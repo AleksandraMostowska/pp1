@@ -3,10 +3,12 @@
 # if the tree can be cut down, or display the value False otherwise. Sample result:
 # Enter tree circumference: … Tree can be cut down: …
 
+import math
+
 def main() -> None:
     circumference = float(input('Enter tree circumference (in cm): '))
     
-    can_be_cut_down = circumference >= 50
+    can_be_cut_down = circumference / math.pi >= 50
     
     print(f'Tree can be cut down: {can_be_cut_down}')
 
